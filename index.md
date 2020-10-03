@@ -1,6 +1,6 @@
 ## [Dr. Zafar Gilani](https://uk.linkedin.com/in/zafargilani)
 
-[LinkedIn](https://uk.linkedin.com/in/zafargilani) | [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Zafar_Gilani) | [Instagram](https://www.instagram.com/zafilani/) | [Twitter](https://twitter.com/zafilani)
+[LinkedIn](https://uk.linkedin.com/in/zafargilani) | [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Zafar_Gilani) | [Press, News & Print Media](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit) | [Talks](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit) | [Instagram](https://www.instagram.com/zafilani/) | [Twitter](https://twitter.com/zafilani)
 
 ``` markdown
 Ph.D. from University of Cambridge
@@ -67,10 +67,3 @@ Currently, I hold multiple positions at the University of Hong Kong, QMUL and En
 
 - 2011 **ICFA SCIC Monitoring WG Caltech ICFA SCIC Monitoring Report** [URL](http://monalisa.caltech.edu:8080/Slides/Public/SCICReports2011Final/NetworkMonitoringReport.pdf) | [PDF](https://www.researchgate.net/publication/344460512_2010_-_2011_Report_of_the_ICFA-SCIC_Monitoring_Working_Group)
 
-### PRESS, NEWS & PRINT MEDIA
-
-Find a [complete list here](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit)
-
-### TALKS
-
-Find a [complete list here](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit)
