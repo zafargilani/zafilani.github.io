@@ -1,6 +1,6 @@
 ## [Dr. Zafar Gilani](https://uk.linkedin.com/in/zafargilani)
 
-[LinkedIn](https://uk.linkedin.com/in/zafargilani) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [ResearchGate](https://www.researchgate.net/profile/Zafar_Gilani) • [Press, News & Print Media](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit) • [Talks](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit) || _[Instagram](https://www.instagram.com/zafilani/)_ • _[Twitter](https://twitter.com/zafilani)_
+[LinkedIn](https://uk.linkedin.com/in/zafargilani) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [ResearchGate](https://www.researchgate.net/profile/Zafar_Gilani) • [Press, News & Print Media](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit) • [Talks & Public Speaking](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit) »»» [Instagram](https://www.instagram.com/zafilani/) • [Twitter](https://twitter.com/zafilani)
 
 ``` markdown
 Ph.D. from University of Cambridge
