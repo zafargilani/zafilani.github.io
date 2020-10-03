@@ -1,15 +1,14 @@
 ## [Dr. Zafar Gilani](https://uk.linkedin.com/in/zafargilani)
 
 ``` markdown
-Ph.D. from University of Cambridge
-Computer Scientist, AI Expert, Author, Public Speaker
+Cambridge PhD & Alumnus, Author, AI expert, Speaker
 
 Assistant Professor - University of Hong Kong
-Researcher - QMUL
-Senior Principal Consultant - Enzen UK
+Researcher - Queen Mary University of London
+Senior Principal Consultant - Enzen Global
 ```
 
-[LinkedIn](https://uk.linkedin.com/in/zafargilani) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [Research Gate](https://www.researchgate.net/profile/Zafar_Gilani) • [Print Media](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit) • [Talks](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit) • [Twitter](https://twitter.com/zafilani) • [Instagram](https://www.instagram.com/zafilani/)
+[LinkedIn](https://uk.linkedin.com/in/zafargilani) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [Research Gate](https://www.researchgate.net/profile/Zafar_Gilani) • [Press](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit) • [Talks](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit) • [Twitter](https://twitter.com/zafilani) • [Instagram](https://www.instagram.com/zafilani/)
 
 ### ABOUT ME
 
