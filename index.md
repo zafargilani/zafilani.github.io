@@ -1,6 +1,10 @@
 ## [Dr. Zafar Gilani](https://uk.linkedin.com/in/zafargilani)
 
-[LinkedIn](https://uk.linkedin.com/in/zafargilani) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [ResearchGate](https://www.researchgate.net/profile/Zafar_Gilani) • [Press, News & Print Media](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit) • [Talks & Public Speaking](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit) • [Instagram](https://www.instagram.com/zafilani/) • [Twitter](https://twitter.com/zafilani)
+[LinkedIn](https://uk.linkedin.com/in/zafargilani) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [ResearchGate](https://www.researchgate.net/profile/Zafar_Gilani)
+
+[Press, News & Print Media](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit) • [Talks & Public Speaking](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit)
+
+[Instagram](https://www.instagram.com/zafilani/) • [Twitter](https://twitter.com/zafilani)
 
 ``` markdown
 Ph.D. from University of Cambridge
@@ -23,17 +27,17 @@ Currently, I hold multiple positions at the University of Hong Kong, QMUL and En
 
 **_BOOKS & DISSERTATIONS_**
 
-- 2018 University of Cambridge **Understanding the behaviour and influence of automated social agents** _Ph.D. / Doctoral Dissertation_ [DOI](https://doi.org/10.17863/CAM.26395) | [PDF](https://www.researchgate.net/publication/327279748_Understanding_the_behaviour_and_influence_of_automated_social_agents)
+- 2018 University of Cambridge **Understanding the behaviour and influence of automated social agents** _Ph.D. / Doctoral Dissertation_ [DOI](https://doi.org/10.17863/CAM.26395) [PDF](https://www.researchgate.net/publication/327279748_Understanding_the_behaviour_and_influence_of_automated_social_agents)
 
-- 2015 **Deploying and Managing a Cloud Infrastructure: Real-World Skills for the CompTIA Cloud+ Certification and Beyond: Exam CV0-001** _Publisher: John Wiley & Sons, Inc._ **Paperback ISBN: 978-1-118-87510-0 | Ebook ISBN: 978-1-118-87558-2** [Paperback](https://www.wiley.com/en-gb/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real+World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0+001-p-9781118875100) | [Ebook](https://www.wiley.com/en-gb/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real+World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0+001-p-9781118875582)
+- 2015 **Deploying and Managing a Cloud Infrastructure: Real-World Skills for the CompTIA Cloud+ Certification and Beyond: Exam CV0-001** _Publisher: John Wiley & Sons, Inc._ **Paperback ISBN: 978-1-118-87510-0 | Ebook ISBN: 978-1-118-87558-2** [Paperback](https://www.wiley.com/en-gb/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real+World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0+001-p-9781118875100) [Ebook](https://www.wiley.com/en-gb/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real+World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0+001-p-9781118875582)
 
 **_JOURNALS_**
 
-- 2020 **The Effects of Outdoor Air Pollution Concentrations and Lockdowns on Covid-19 Infections in Wuhan and Other Provincial Capitals in China** [DOI](https://doi.org/10.20944/preprints202003.0364.v1) | [PDF](https://www.researchgate.net/publication/340168473_The_Effects_of_Outdoor_Air_Pollution_Concentrations_and_Lockdowns_on_Covid-19_Infections_in_Wuhan_and_Other_Provincial_Capitals_in_China)
+- 2020 **The Effects of Outdoor Air Pollution Concentrations and Lockdowns on Covid-19 Infections in Wuhan and Other Provincial Capitals in China** [DOI](https://doi.org/10.20944/preprints202003.0364.v1) [PDF](https://www.researchgate.net/publication/340168473_The_Effects_of_Outdoor_Air_Pollution_Concentrations_and_Lockdowns_on_Covid-19_Infections_in_Wuhan_and_Other_Provincial_Capitals_in_China)
 
-- 2020 **Outdoor Air Pollutant Concentration and COVID-19 Infection in Wuhan, China** [DOI](https://doi.org/10.1101/2020.05.19.20106484) | [PDF](https://www.researchgate.net/publication/341663017_Outdoor_Air_Pollutant_Concentration_and_COVID-19_Infection_in_Wuhan_China)
+- 2020 **Outdoor Air Pollutant Concentration and COVID-19 Infection in Wuhan, China** [DOI](https://doi.org/10.1101/2020.05.19.20106484) [PDF](https://www.researchgate.net/publication/341663017_Outdoor_Air_Pollutant_Concentration_and_COVID-19_Infection_in_Wuhan_China)
 
-- 2019 ACM Transactions on the Web **A Large Scale Behavioural Analysis of Bots and Humans on Twitter** [DOI](https://doi.org/10.1145/3298789) | [PDF](https://www.researchgate.net/publication/330921386_A_Large-scale_Behavioural_Analysis_of_Bots_and_Humans_on_Twitter) | [GitHub](https://github.com/zafargilani/stcs)
+- 2019 ACM Transactions on the Web **A Large Scale Behavioural Analysis of Bots and Humans on Twitter** [DOI](https://doi.org/10.1145/3298789) [PDF](https://www.researchgate.net/publication/330921386_A_Large-scale_Behavioural_Analysis_of_Bots_and_Humans_on_Twitter) [GitHub](https://github.com/zafargilani/stcs)
 
 **_CONFERENCES_**
 
