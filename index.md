@@ -5,7 +5,7 @@ Cambridge PhD & Alumnus, Author, AI expert, Speaker
 
 Assistant Professor - University of Hong Kong
 Researcher - Queen Mary University of London
-Senior Principal Consultant - Enzen Global
+Senior Principal Consultant - Enzen Global Ltd
 ```
 
 [LinkedIn](https://uk.linkedin.com/in/zafargilani) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [Research Gate](https://www.researchgate.net/profile/Zafar_Gilani) • [Press](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit) • [Talks](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit) • [Twitter](https://twitter.com/zafilani) • [Instagram](https://www.instagram.com/zafilani/)
@@ -24,7 +24,7 @@ Currently, I hold multiple positions at the University of Hong Kong, QMUL and En
 
 - 2018 University of Cambridge **Understanding the behaviour and influence of automated social agents** _Ph.D. / Doctoral Dissertation_ [DOI](https://doi.org/10.17863/CAM.26395) [PDF](https://www.researchgate.net/publication/327279748_Understanding_the_behaviour_and_influence_of_automated_social_agents)
 
-- 2015 **Deploying and Managing a Cloud Infrastructure: Real-World Skills for the CompTIA Cloud+ Certification and Beyond: Exam CV0-001** _Publisher: John Wiley & Sons, Inc._ Paperback ISBN: 978-1-118-87510-0 , Ebook ISBN: 978-1-118-87558-2 [Paperback](https://www.wiley.com/en-gb/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real+World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0+001-p-9781118875100) [Ebook](https://www.wiley.com/en-gb/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real+World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0+001-p-9781118875582)
+- 2015 John Wiley & Sons, Inc. **Deploying and Managing a Cloud Infrastructure: Real-World Skills for the CompTIA Cloud+ Certification and Beyond: Exam CV0-001** Paperback ISBN 978-1-118-87510-0, Ebook ISBN 978-1-118-87558-2 [Paperback](https://www.wiley.com/en-gb/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real+World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0+001-p-9781118875100) [Ebook](https://www.wiley.com/en-gb/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real+World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0+001-p-9781118875582)
 
 **_JOURNALS_**
 
