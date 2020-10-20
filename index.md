@@ -36,6 +36,8 @@ Currently, I hold multiple positions at the University of Hong Kong, QMUL and En
 
 **_CONFERENCES_**
 
+- 2020 IEEE/ACM ASONAM **Characterising and Detecting Sponsored Influencer Posts on Instagram** [DOI (soon)]() [PDF (soon)]()
+
 - 2020 PAM **Dissecting the Workload of a Major Adult Video Portal** [DOI](https://doi.org/10.1007/978-3-030-44081-7_16) [PDF](https://www.researchgate.net/publication/339015209_Dissecting_the_Workload_of_a_Major_Adult_Video_Portal)
 
 - 2018 IEEE BIG DATA **In Search of A Better Land: Would People Move to A Country with Better Air Quality? A Global Survey Based on Twitter Data** [DOI](https://doi.org/10.1109/BigData.2018.8622532) [PDF](https://www.researchgate.net/publication/330626159_In_Search_of_A_Better_Land_Would_People_Move_to_A_Country_with_Better_Air_Quality_A_Global_Survey_Based_on_Twitter_Data)
