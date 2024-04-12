@@ -4,13 +4,13 @@
 Cambridge PhD & Alumnus, Author, AI expert, Speaker
 ```
 
-- [LinkedIn](https://uk.linkedin.com/in/zafargilani) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [Research Gate](https://www.researchgate.net/profile/Zafar_Gilani)
+- [~LinkedIn~ (hibernating)](https://uk.linkedin.com/in/zafargilani) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [Research Gate](https://www.researchgate.net/profile/Zafar_Gilani)
 - [Publications](https://docs.google.com/document/d/1FbT1NO_M0sQrkCWheVYjc4G-SBYfvVUECozfipdMz7o/edit) • [Press](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit) • [Talks](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit)
 
 
 ### ABOUT ME
 
-I currently hold the Data Engineering Consultant position at Johnson Matthey.
+I currently hold Data and AI Consultant position at Johnson Matthey.
 
 Prior to this I was the Senior Principal Consultant for AI and Deep Learning at Enzen Global Solutions Ltd. I also held the Adjunct Assistant Professor position at the University of Hong Kong.
 
