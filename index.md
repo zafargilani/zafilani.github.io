@@ -4,7 +4,8 @@
 Cambridge PhD & Alumnus, Author, AI expert, Speaker
 ```
 
-- [~~LinkedIn~~ (hibernating)](https://uk.linkedin.com/in/zafargilani) • [Résumé/CV technical](https://docs.google.com/document/d/1wP0yEUvQx05zEDhpnqG_hc6jWCG5ix9NpQVjVDu0t_4/edit) • [Résumé/CV business](https://docs.google.com/document/d/1yOMRIjOh303ihuhBWQCZS05NW-iAp-uWEP3wcgscdXI/edit)
+- [~~LinkedIn~~ (hibernating)](https://uk.linkedin.com/in/zafargilani)
+- [Curriculum Vitae (Résumé)](https://docs.google.com/document/d/1xfa55-e613TJiLH9tMg50w8kg7AC5uC0cjJKlkmvPJg/edit?usp=sharing)
 - [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [Research Gate](https://www.researchgate.net/profile/Zafar_Gilani)
 - [Publications](https://docs.google.com/document/d/1FbT1NO_M0sQrkCWheVYjc4G-SBYfvVUECozfipdMz7o/edit) • [Press](https://docs.google.com/document/d/1vWydb-0SsHMJsQdpxE3YnHmctAQhG_Wn4jA6SNgOr4U/edit) • [Talks](https://docs.google.com/document/d/1uVA2W_aoNSKAC5o92tt3mc1AZFW7fbJb5OVo5xUrH6M/edit)
 
